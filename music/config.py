@@ -1,0 +1,1 @@
+TOKEN = 'your_token' # token youre yandex account
